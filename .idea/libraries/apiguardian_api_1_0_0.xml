@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="apiguardian-api-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/java-pommerman-master (1)/java-pommerman-master/lib/apiguardian-api-1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/java-pommerman-master (1)/java-pommerman-master/lib/gson-2.8.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/java-pommerman-master (1)/java-pommerman-master/lib/junit-jupiter-api-5.5.0-M1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/java-pommerman-master (1)/java-pommerman-master/lib/junit-platform-commons-1.5.0-M1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/java-pommerman-master (1)/java-pommerman-master/lib/opentest4j-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/java-pommerman-master (1)/java-pommerman-master/lib/trove-3.1a1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
